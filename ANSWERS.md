@@ -18,5 +18,5 @@ can be used to add additional properties and functoinalities that we want to sep
 
 method                                                                      benefit
 vanilla css                                           code might be more readable to developers that are not familiar with styling framework and library
-css frameworks such sass, less, styled components                     can group css props into functions and varribale, and resuse them
+css preprocessor frameworks such sass, less, styled components                     can group css props into functions and varribale, and resuse them
 pre-written css library such as bootstrap, reactstrap, materialUI     don't need to know a lot of css, quickly styled our application
